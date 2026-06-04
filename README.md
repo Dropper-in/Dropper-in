@@ -12,6 +12,7 @@
 <a href="https://velog.io/@dropper_in">
   <img src="https://img.shields.io/badge/dropper_in.log-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
 </a>
+
 <a href="mailto:dropper-in@naver.com">
   <img src="https://img.shields.io/badge/dropper--in@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
 </a>
